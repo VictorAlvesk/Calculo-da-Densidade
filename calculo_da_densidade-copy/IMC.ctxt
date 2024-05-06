@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=IMC
+comment0.text=\r\n\ Modela\ o\ c\u00E1lculo\ de\ IMC\r\n\ \r\n\ @author\ VictorAlves\r\n\ @version\ 0.01\r\n
+comment1.params=
+comment1.target=IMC()
+comment2.params=massa\ volume
+comment2.target=IMC(double,\ double)
+comment2.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ Densidade\r\n
+comment3.params=
+comment3.target=double\ calcular()
+comment3.text=\r\n\ Calculo\ da\ Densidade\r\n\ \r\n\ @return\ \ \ \ \ o\ valor\ da\ Denisdade,\ dado\ por\:\ volume/densidade\r\n
+comment4.params=
+comment4.target=java.lang.String\ interpretar()
+comment4.text=\r\n\ Interpreta\ a\ Densidade\r\n\ \r\n\ @return\ \ \ \ \ interpreta\ a\ Densidade\r\n\ \r\n
+numComments=5
